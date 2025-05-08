@@ -28,7 +28,7 @@ function renderBooks(filter) {
               <i class="fas fa-star"></i>
               <i class="fas fa-star-half-alt"></i>
             </div>
-            <div class="boork__price">
+            <div class="book__price">
               <span>$${book.originalPrice.toFixed(2)}</span>
             </div>
           </div>`;
